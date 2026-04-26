@@ -1,5 +1,7 @@
 # Sales Trend Analysis and Forecasting Using Machine Learning
 
+🚀 **Live App:** https://sales-trends-analysis-and-forecasting.streamlit.app/
+
 A Machine Learning based Sales Forecasting Web Application built with Streamlit, Pandas, and Scikit-learn.
 
 ## Features
